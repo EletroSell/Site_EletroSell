@@ -1,2 +1,2 @@
 # EletroSell
- trabalho da faculdade para criar um site de vendas
+ Trabalho da faculdade para criar um site de vendas

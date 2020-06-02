@@ -5,3 +5,9 @@ Author: OS Templates
 Author URI: https://www.os-templates.com/
 Licence: <a href="https://www.os-templates.com/template-terms">Website Template Licence</a>
 */
+.modelodesc {
+    color: #6b6b6b;
+    font-size: 16px;
+    line-height: 25px;
+    margin: 0 0 20px 0;
+}

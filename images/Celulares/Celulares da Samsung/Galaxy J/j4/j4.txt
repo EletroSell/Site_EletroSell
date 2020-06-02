@@ -1,0 +1,31 @@
+PREÇO 749
+Marca	Samsung
+Modelo	SM-J410G/16DL
+Cor	
+Tipo de Chip	Nano Chip
+Quantidade de Chips	Dual Chip
+Memória Interna	16GB
+Memória RAM	1GB
+Processador	Quad-Core 1.4GHz
+Sistema Operacional	Android
+Versão	Android 8.1
+Tipo de tela	LCD TFT
+Tamanho do Display	6"
+Resolução	1480x720 (HD+)
+Câmera traseira	8MP
+Câmera frontal	5MP
+Filmadora	Full HD
+Expansivo até	MicroSD até 256GB
+Alimentação/Tipo de bateria	Bateria de Ions de Lítio de 3300 mAh
+Banda	2G GSM (GPRS/EDGE) 850, 900, 1800, 1900 MHz 3G Bandas B1(2100),B2(1900),B4(AWS),B5(850),B8(900) 3G Downlink / Uplink HSPA+ 42.2 / 5.76 Mbps 4G Bandas B1(2100),B2(1900),B3(1800),B4(AWS),B5(850),B7(2600),B8(900),B12(700),B13(700),B17(700),B20(800),B28(700),B66(AWS-3) 4G categoria CAT 4 DL
+Conectividade	Wi-Fi, 3G, 4G
+NFC	Não
+TV	Não possui
+Recursos de Chamada	Viva Voz
+Outros Recursos	Tela infinita de 6" ; Câmera frontal de 5MP com Flash a LED ajustável ; Câmera traseira de 8MP ; 16GB de memória interna ;Dual Chip com Dual Messenger
+Conteúdo da Embalagem	1 Aparelho, 1 Carregador, 1 Cabo USB, Fone de ouvido, 1 Extrator de Chip e Manual do usuário
+Dimensões aproximadas do produto - cm (AxLxP)	16x7,6x0,79cm
+Peso líq. aproximado do produto (kg)	177g
+Garantia do Fornecedor	12 Meses
+Referência do modelo	Galaxy J4 Core
+Fornecedor	Samsung

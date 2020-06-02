@@ -1,0 +1,30 @@
+PREÇO 1.299
+Marca	Motorola
+Modelo	XT1926-8
+Cor	
+Tipo de Chip	Nano Chip
+Quantidade de Chips	Dual Chip
+Memória Interna	64GB
+Memória RAM	4GB
+Processador	Octa-Core 2.2 GHz - Qualcomm Snapdragon 630 (SDM630)
+Sistema Operacional	Android
+Versão	Android Oreo - 8.0
+Tipo de tela	LCD IPS
+Tamanho do Display	5.9"
+Resolução	Full HD+ - 2160x1080
+Câmera traseira	12 + 5MP (Dual Traseira)
+Câmera frontal	8MP
+Filmadora	Full HD
+Expansivo até	MicroSD até 128GB
+Alimentação/Tipo de bateria	3200 mAh - Duração de 27 horas
+Banda	2G - GSM 850/900/1800/1900 MHz; 3G - WCDMA 850/900/1900/2100 MHz; 4G - LTE B1(2100), B3(1800), B5(850), B7(2600), B28(700)
+Conectividade	Wi-Fi, 3G, 4G
+NFC	Sim
+TV	Digital
+Recursos de Chamada	Chamada por Voz
+Conteúdo da Embalagem	1 Telefone indigo, 1 capa protetora, 1 kit de manuais, 1 cabo de sincronização , 1 fone de ouvido estereo , 1 carregador de parede turbopower 15W, 1 antena de TV digital móvel e 1 ferramenta de remoção do Sim
+Dimensões aproximadas do produto - cm (AxLxP)	15,9x7,5x0,8cm
+Peso líq. aproximado do produto (kg)	165g
+Garantia do Fornecedor	12 Meses
+Referência do modelo	XT1926-8
+Fornecedor	Flexitronics Internacional Tecnologia LTDA

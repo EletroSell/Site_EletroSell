@@ -1,0 +1,24 @@
+PREÇO 1.099
+Marca	Samsung
+Modelo	SM-A305GT/6DL
+Cor	
+Tipo de Chip	Nano Chip
+Quantidade de Chips	Dual Chip
+Memória Interna	64GB
+Memória RAM	4GB
+Processador	Octa-Core
+Sistema Operacional	Android
+Tipo de tela	Super AMOLED
+Tamanho do Display	6.4"
+Câmera traseira	16MP + 5MP
+Câmera frontal	16MP
+Filmadora	Full HD
+Expansivo até	MicroSD até 512GB
+Alimentação/Tipo de bateria	Bateria de Íons de Lítio de 3400 mAh
+Banda	B1(2100), B2(1900), B3(1800), B5(850), B8(900)
+Conteúdo da Embalagem	Aparelho celular, carregador, cabo USB, fone de ouvido, Extrator de Chip e manual do usuário
+Dimensões aproximadas do produto - cm (AxLxP)	15,8x7x0,07cm
+Peso líq. aproximado do produto (kg)	170g
+Garantia do Fornecedor	12 meses
+Referência do modelo	Galaxy A30
+Fornecedor	Samsung

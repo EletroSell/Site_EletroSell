@@ -1,0 +1,29 @@
+PREÇO 1.549
+Conteúdo da Embalagem	1 Telefone Preto Ônix. 1 Capa Protetora. 1 Kit de Manuais. 1 Fone de Ouvido Estéreo. 1 Cabo de Sincronização. 1 Carregador de Parede. 1 Ferramenta de Remoção do Chip
+Tipo de Chip	Nano Chip
+Sistema Operacional	Android
+Versão S.O.	9
+Dimensões do produto - cm (AxLxP)	15.7x7.5x0.9cm
+Peso liq. aproximado do produto (Kg)	183g
+Referência do Modelo	XT2015-2
+SAC do Fabricante	4002-1244 Capitais e Regiões Metropolitanas ou 0800 773-1244 - Demais Regiões
+Tipo de Tela	LED IPS
+Tamanho do Display	6.2"
+Resolução	HD+ - 720 x 1520
+Multichip	Dual Chip
+Câmera traseira	13 MP + 8 MP + 2 MP
+Câmera frontal	8MP
+Filmadora	Full HD
+Sintonizador de TV	Não possui
+NFC	Não
+Processador	Helio P70M
+Memória RAM	2GB
+Memória Interna	32GB
+Garantia do Fornecedor	12 Meses
+Fabricante	Flexitronics Internacional Tecnologia LTDA
+Expansivo até?	MicroSD até 512GB
+Banda	2G - GSM 850/900/1800/1900 MHz - 3G - WCDMA 850/900/1700/1900/2100 MHz - 4G - LTE B1 (2100), B2 (1900), B3 (1800), B4 (1700/2100), B5 (850), B7 (2600), B8 (900), B28 (700 APT), B66 (AWS3+4)
+Conexões	Wi-Fi,3G,4G
+Recursos de chamada	Viva Voz
+Alimentação, tipo de bateria	4000 mAh
+Modelo	XT2015-2

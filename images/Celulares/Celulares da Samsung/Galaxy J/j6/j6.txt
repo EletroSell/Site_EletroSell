@@ -1,0 +1,30 @@
+PREÇO 799
+Marca	Samsung
+Modelo	SM-J600GT/6DL
+Cor	
+Tipo de Chip	Nano Chip
+Quantidade de Chips	Dual Chip
+Memória Interna	64GB
+Memória RAM	2GB
+Processador	Octa-Core 1.6GHz
+Sistema Operacional	Android
+Versão	Android 8.0
+Tipo de tela	Super AMOLED
+Tamanho do Display	5.6"
+Resolução	1480 x 720 (HD+)
+Câmera traseira	13MP
+Câmera frontal	8MP
+Filmadora	Full HD
+Expansivo até	MicroSD até 256GB
+Alimentação/Tipo de bateria	Bateria de Ions de Lítio de 3000 mAh
+Banda	2G GSM (GPRS/EDGE) 850, 900, 1800, 1900 MHz; 3G Bandas B1(2100), B2(1900), B4(AWS), B5(850), B8(900); 3G Downlink / Uplink HSPA+ 42.2 / 5.76 Mbps; 4G Bandas B1(2100),B2(1900),B3(1800),B4(AWS),B5(850),B7(2600),B8(900),B12(700),B13(700),B17(700),B20(800),B28(700),B66(AWS-3); 4G categoria Cat. 4
+Conectividade	Wi-Fi, 3G, 4G
+NFC	Não
+TV	Digital
+Recursos de Chamada	Viva Voz
+Conteúdo da Embalagem	Aparelho, carregador, cabos de dados, fone de ouvido e extrator de chip
+Dimensões aproximadas do produto - cm (AxLxP)	14,9x7x0,8cm
+Peso líq. aproximado do produto (kg)	154g
+Garantia do Fornecedor	12 Meses
+Referência do modelo	Galaxy J6
+Fornecedor	Samsung

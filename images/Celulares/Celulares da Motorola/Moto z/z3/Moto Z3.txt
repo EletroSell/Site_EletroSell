@@ -1,0 +1,52 @@
+REDE
+Tecnologia                GSM / HSPA / LTE
+Bandas 2G                 GSM 850 / 900 / 1800 / 1900
+Bandas 3G                 HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100
+Velocidade                HSPA 42.2/5.76 Mbps, LTE-A (5CA) Cat16 1024/150 Mbps
+Bandas 4G                 Banda LTE 1(2100), 3(1800), 4(1700/2100), 5(850), 7(2600), 8(900), 12(700), 17(700), 18(800), 19(800), 20(800), 26(850), 28(700), 38(2600), 40(2300), 41(2500)
+
+ESTRUTURA
+Dimensões                 156.5 x 76.5 x 6.8 mm
+Peso                      156 g
+SIM Card                  Single SIM ou Dual SIM (Nano SIM)
+
+Corpo                     Vidro frontal/traseiro (Gorilla Glass 3), bordas de alumínio série 6000
+TELA
+Tipo                      Super AMOLED
+Tamanho                   6.01 polegadas
+Resolução                 1080 x 2160 pixels
+Proteção                  Gorilla Glass 3
+
+PLATAFORMA
+Sistema operacional       Android 9.0 (Pie)
+CPU                       Octa-core (4x2.35 GHz Kryo & 4x1.9 GHz Kryo)
+GPU                       Adreno 540
+Chipset                   Qualcomm MSM8998 Snapdragon 835 (10 nm)
+
+MEMÓRIA
+Cartão de Memória         microSD até 1 TB (gaveta dedicada)
+Interna                   128 GB, 6 GB ou 64 GB, 4 GB
+
+ÁUDIO
+Alto-Falantes             Sim
+Saída 3.5mm               Não
+
+CONEXÕES
+Wireless                  Wi-Fi ac
+Bluetooth                 5.0
+GPS                       GPS, GLONASS, BDS
+Rádio                     Sim
+USB                       Tipo-C 1.0
+NFC                       Sim
+
+RECURSOS
+Sensores                  Leitor de digitais (lateral), acelerômetro, giroscópio, proximidade, bússola
+
+CÂMERA PRINCIPAL
+Recursos                  Dual-LED, flash em dois tons
+Vídeo                     2160p@30fps, 1080p@30/60fps
+Dupla                     12 MP, f/2.0, 1.25µm, PDAF, foco laser + 12 MP P/B, PDAF, foco laser
+
+CÂMERA SECUNDÁRIA
+Única                     8 MP, f/2.0, 1/4", 24mm (wide), 1.12µm
+Vídeo                     1080p@30fps

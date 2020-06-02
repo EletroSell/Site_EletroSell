@@ -1,0 +1,30 @@
+PREÇO 1.199
+Marca	Motorola
+Modelo	XT1952-2
+Cor	
+Tipo de Chip	Nano Chip
+Quantidade de Chips	Dual Chip
+Memória Interna	32GB
+Memória RAM	2GB
+Processador	1.8 GHz Octa-Core Qualcomm Snapdragon 632 (SDM632)
+Sistema Operacional	Android
+Versão	Android Pie - 9.0
+Tipo de tela	LCD IPS
+Tamanho do Display	5.7"
+Resolução	HD+ - 720 x 1440 (720 x 1512 incluindo o notch)
+Câmera traseira	13MP
+Câmera frontal	8MP
+Filmadora	4K
+Expansivo até	MicroSD até 256GB
+Alimentação/Tipo de bateria	3000 mAh
+Banda	2G - GSM 850/900/1800/1900 MHz; 3G - WCDMA 850/900/1700/1900/2100 MHz; 4G - LTE B1(2100), B2(1900), B3(1800), B4(1700/2100), B5(850), B7(2600), B28(700), B66 (AWS3+4)
+Conectividade	Wi-Fi, 3G, 4G
+NFC	Não
+TV	Não possui
+Recursos de Chamada	Chamada por Voz
+Conteúdo da Embalagem	1 Telefone indigo, 1 kit de manuais, 1 cabo de sincronização, 1 fone de ouvido estereo, 1 carregador de parede e 1 ferramenta de remoção do chip
+Dimensões aproximadas do produto - cm (AxLxP)	14,7x7,1x0,7cm
+Peso líq. aproximado do produto (kg)	149g
+Garantia do Fornecedor	12 Meses
+Referência do modelo	XT1952-2
+Fornecedor	Flexitronics Internacional Tecnologia LTDA

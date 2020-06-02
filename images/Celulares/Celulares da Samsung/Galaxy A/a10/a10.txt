@@ -1,0 +1,22 @@
+PREÇO 899
+Marca	Samsung
+Modelo	SM-A105M/32DL
+Cor	
+Tipo de Chip	Nano Chip
+Quantidade de Chips	Dual Chip Híbrido
+Memória Interna	2GB
+Memória RAM	32GB
+Processador	Octa-Core
+Sistema Operacional	Android
+Tamanho do Display	6.2"
+Câmera traseira	13MP
+Filmadora	Full HD
+Alimentação/Tipo de bateria	Bateria de Íons de Lítio de 3400 mAh
+Banda	B1(2100), B2(1900), B4(AWS), B5(850), B8(900)
+Conectividade	4G
+Conteúdo da Embalagem	Aparelho celular, carregador, cabo USB, fone de ouvido, Extrator de Chip e manual do usuário
+Dimensões aproximadas do produto - cm (AxLxP)	15,5x7x0,07cm
+Peso líq. aproximado do produto (kg)	170g
+Garantia do Fornecedor	12 meses
+Referência do modelo	Galaxy A10
+Fornecedor	Samsung

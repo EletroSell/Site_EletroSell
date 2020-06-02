@@ -1,0 +1,29 @@
+PREÇO 3.499
+Tipo de Chip	Nano Chip
+Sistema Operacional	Android
+Versão S.O.	Android 9.0
+Tipo de Tela	Super AMOLED
+Tamanho do Display	6.7"
+Resolução	48MP + 8MP (UW) + ToF (Câmera rotativa)
+Multichip	Dual Chip
+Câmera traseira	48+5MP
+Câmera frontal	41MP
+Filmadora	Full HD
+Sintonizador de TV	Não possui
+NFC	Sim
+Processador	Octa-Core
+Memória RAM	8GB
+Memória Interna	128GB
+Expansivo até?	Não possui entrada para cartão de memória
+Banda	B1(2100),B2(1900),B4(AWS),B5(850),B8(900)
+Conexões	Wi-Fi,3G,4G
+Recursos de chamada	Viva Voz
+Alimentação, tipo de bateria	Bateria de Íons de Lítio de 3700 mAh
+Modelo	SM-A805F/1DL
+Cor	
+Conteúdo da Embalagem	Aparelho celular, carregador, cabo USB, fone de ouvido, Extrator de Chip e manual do usuário
+Garantia do Fornecedor	12 Meses
+Dimensões do produto - cm (AxLxP)	16, x7,6x0,9cm
+Peso liq. aproximado do produto (Kg)	220g
+Referência do Modelo	Galaxy A80
+Fabricante	Samsung

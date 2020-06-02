@@ -1,0 +1,30 @@
+PREÇO 2.299
+Marca	Apple
+Modelo	iPhone 7
+Cor	
+Tipo de Chip	Nano Chip
+Quantidade de Chips	Single Chip
+Memória Interna	32GB
+Memória RAM	2GB
+Processador	A10
+Sistema Operacional	Iphone IOS
+Versão	IOS 10
+Tipo de tela	Retina Display
+Tamanho do Display	4.7"
+Resolução	1334 x 750 pixels, 326 ppp
+Câmera traseira	12MP
+Câmera frontal	7MP
+Filmadora	4K
+Expansivo até	Não possui entrada para cartão de memória
+Alimentação/Tipo de bateria	Bateria de íon de lítio recarregável
+Banda	Não se aplica
+Conectividade	Wi-Fi, 3G, 4G
+NFC	Sim
+TV	Não
+Recursos de Chamada	Viva Voz
+Conteúdo da Embalagem	iPhone; EarPods com conector Lightning; Cabo Lightning para USB; e Carregador USB de 5W
+Dimensões aproximadas do produto - cm (AxLxP)	13,8x6,7x0,7cm
+Peso líq. aproximado do produto (kg)	138g
+Garantia do Fornecedor	12 Meses
+Referência do modelo	MN912BZ/A
+Fornecedor	Apple

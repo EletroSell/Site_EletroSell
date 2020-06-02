@@ -1,0 +1,55 @@
+PREÇO 3.199
+
+REDE
+Tecnologia  GSM / CDMA / HSPA / EVDO / LTE
+Bandas 2G  GSM 850 / 900 / 1800 / 1900
+Bandas 3G  HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100
+Velocidade  HSPA 42.2/5.76 Mbps, LTE-A (5CA) Cat18 1200/200 Mbps
+Bandas 4G  Banda LTE 1(2100), 2(1900), 3(1800), 4(1700/2100), 5(850), 7(2600), 8(900), 12(700), 13(700), 17(700), 18(800), 19(800), 20(800), 25(1900), 26(850), 28(700), 32(1500), 38(2600), 39(1900), 40(2300), 41(2500), 66(1700/2100), 71(600)
+
+ESTRUTURA
+Dimensões  161.9 x 76.4 x 8.8 mm
+Peso  201 g
+SIM Card  Single SIM (Nano-SIM) ou Dual SIM (Nano-SIM)
+Corpo  Frente e traseira em vidro, moldura em alumínio
+
+TELA 
+Tipo Super AMOLED
+Tamanho  6.4 polegadas
+Resolução  1440 x 2960 pixels
+Proteção  Gorilla Glass 5
+
+PLATAFORMA
+Sistema operacional  Android 8.1 (Oreo), atualizável para o Android 9.0 (Pie)
+CPU  Octa-core (4 x 2.7 GHz Mongoose M3 & 4 x 1.8 GHz Cortex-A55) ou Octa-core (4x2.8 GHz Kryo 385 Gold & 4x1.7 GHz Kryo 385 Silver)
+GPU  Mali-G72 MP18 ou Adreno 630
+Chipset  Exynos 9810 (10 nm) ou Qualcomm SDM845 Snapdragon 845 (10 nm)
+
+MEMÓRIA
+Cartão de Memória  microSD até 1 TB (compartilha a gaveta do SIM)
+Interna  128/512 GB, 6/8 GB RAM
+
+ÁUDIO 
+Alto-Falantes  Sim (estéreo)
+Saída 3.5mm  Sim
+
+CONEXÕES
+Wireless  Wi-Fi ac
+Bluetooth  5.0
+GPS  GPS, GLONASS, BDS, GALILEO
+Rádio  Não
+USB  3.1, Tipo-C
+NFC  Sim
+
+RECURSOS
+Sensores  Leitor de íris, leitor de digitais (traseiro), acelerômetro, giroscópio, proximidade, bússola, barômetro, batimento cardíaco, SpO2
+
+CÂMERA PRINCIPAL
+Recursos  Flash LED
+Vídeo  2160p@60fps, 1080p@240fps, 720p@960fps, HDR
+Dupla  12 MP, f/1.5-2.4, 26mm (wide), 1/2.55", 1.4µm, dual pixel PDAF, estabilização óptica + 12 MP, f/2.4, 52 mm (tele), 1/3.4", 1.0µm, estabilização óptica, zoom óptico 2x
+
+CÂMERA SECUNDÁRIA
+Única  8 MP, f/1.7, 25mm (wide), 1/3.6", 1.22µm
+Vídeo  1440p@30fps
+Recursos  Auto-HDR

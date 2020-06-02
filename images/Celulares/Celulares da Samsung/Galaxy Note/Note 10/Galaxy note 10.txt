@@ -1,0 +1,55 @@
+PREÇO 3.699
+
+REDE
+Tecnologia  GSM / CDMA / HSPA / EVDO / LTE
+Bandas 2G  GSM 850 / 900 / 1800 / 1900
+Bandas 3G  HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100
+Velocidade  HSPA 42.2/5.76 Mbps, LTE-A (7CA) Cat20 2048/150 Mbps
+Bandas 4G  LTE
+
+ESTRUTURA
+Dimensões  151 x 71.8 x 7.9 mm
+Peso  168 g
+SIM Card  Single SIM (Nano-SIM) ou Dual SIM (Nano-SIM)
+Corpo  Vidro frontal e traseiro (Gorilla Glass), bordas de aço inoxidável
+
+TELA
+Tipo  AMOLED Dinâmica
+Tamanho  6.3 polegadas
+Resolução  1080 x 2280 pixels
+Proteção  Gorilla Glass
+
+PLATAFORMA
+Sistema operacional  Android 9.0 (Pie)
+CPU  Octa-core (2x2.73 GHz Mongoose M4 & 2x2.4 GHz Cortex-A75 & 4x1.9 GHz Cortex-A55) ou Octa-core (1x2.8 GHz Kryo 485 & 3x2.4 GHz Kryo 485 & 4x1.7 GHz Kryo 485)
+GPU  Mali-G76 MP12 ou Adreno 640
+Chipset  Exynos 9825 (7 nm) ou Qualcomm SDM855 Snapdragon 855 (7 nm)
+
+MEMÓRIA
+Cartão de Memória  Não disponível
+Interna  256 GB, 8 GB RAM
+
+ÁUDIO
+Alto-Falantes  Sim (estéreo)
+Saída 3.5mm  Não
+
+CONEXÕES
+Wireless  Wi-Fi ax (Wifi 6)
+Bluetooth  5.0
+GPS  GPS, GLONASS, BDS, GALILEO
+Rádio  Depende da região
+USB  3.1, Tipo-C
+NFC  Sim
+
+RECURSOS
+Sensores  Sensor de impressões digitais (sob a tela), acelerômetro, giroscópio, proximidade, bússola, barômetro, SpO2
+
+CÂMERA PRINCIPAL
+Recursos  Flash LED
+Vídeo  2160p@60fps, 1080p@240fps, 720p@960fps, HDR
+Quádrupla  12 MP, f/1.5-1.8-2.4, 27mm (wide), 1/2.55", 1.4µm, Dual Pixel PDAF, estabilização óptica + 12 MP, f/2.1, 52mm (tele), 1/3.6", 1.0µm, estabilização óptica, zoom óptico 2x + 16 MP, f/2.2, 12mm (ultrawide), 1.0µm
+
+CÂMERA SECUNDÁRIA
+Única  10 MP, f/2.2, 26mm (wide), 1.22µm, PDAF Dual Pixel
+Vídeo  2160p@30fps
+Recursos  Auto-HDR

@@ -28,3 +28,287 @@ NFC	Não
 Processador	Octa-Core 1.8 GHz
 Memória RAM	3GB
 Memória Interna	32GB
+
+
+
+<div class="modeldesc">
+				O Samsung Galaxy A20 é um smartphone <a href="https://www.tudocelular.com/buscatelefone/44.html" style="color: #00597B !important;" title="Ver todos os celular com Sistema Operacional Android"><b>Android</b></a> completo, que não tem muito a invejar aos mais avançados dispositivos. Surpreendente é sua tela <b>Touchscreen</b> de <b>6.4</b> polegadas, que coloca esse Samsung no topo de sua categoria. A resolução também é alta: <b>1560x720</b> pixel. Quanto às funções, no Samsung Galaxy A20 realmente não falta nada. Começando pelo conectividade <b>Wi-fi</b> e <b>GPS</b>. A transferência de dados e navegação web sao fornecidas pela rede <b>UMTS</b>, mas não suporta tecnologias mais recentes, tais como <i>HSDPA</i>. Enfatizamos a boa memória interna de <b>32 GB</b> com a possibilidade de expansão. <br>Este Samsung Galaxy A20 é um produto com poucos concorrentes em termos de multimídia graças à câmera de <b>13</b> megapixels que permite ao Samsung Galaxy A20 tirar fotos fantásticas com uma resolução de <b>4163x3122</b> pixels e gravar vídeos em alta definição (<b>Full HD</b>) com uma resolução de <b>1920x1080</b> pixels. Muito fino, <b>7.8</b> milímetros, o que torna o Samsung Galaxy A20 realmente interessante. <br>
+			</div>
+
+
+
+
+
+
+
+
+
+<section id="specs" class="row center-xs">
+<h2 class="col-xs-11 col-lg-10">Ficha Técnica</h2>
+<ul class="collapsible col-xs-12">
+<li class="active">
+<div class="collapsible-header row center-xs">
+<span class="col-xs-12 col-sm-11 col-lg-10">Rede</span>
+</div>
+<div class="collapsible-body" style="display: block;">
+<table class="row center-xs">
+<tbody class="col-xs-12 col-sm-11 col-lg-10 xs-no-padding-lr">
+<tr class="row center-xs">
+<td class="category-specs col-xs-5 col-sm-4">Tecnologia</td>
+<td class="category-value col-xs-7 col-sm-8">GSM / CDMA / HSPA / EVDO / LTE</td>
+</tr>
+<tr class="row center-xs">
+<td class="category-specs col-xs-5 col-sm-4">Bandas 2G</td>
+<td class="category-value col-xs-7 col-sm-8">GSM 850 / 900 / 1800 / 1900</td>
+</tr>
+<tr class="row center-xs">
+<td class="category-specs col-xs-5 col-sm-4">Bandas 3G</td>
+<td class="category-value col-xs-7 col-sm-8">HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100</td>
+</tr>
+<tr class="row center-xs">
+<td class="category-specs col-xs-5 col-sm-4">Velocidade</td>
+<td class="category-value col-xs-7 col-sm-8">HSPA 42.2/5.76 Mbps, LTE-A (6CA) Cat18 1200/200 Mbps</td>
+</tr>
+<tr class="row center-xs">
+<td class="category-specs col-xs-5 col-sm-4">Bandas 4G</td>
+<td class="category-value col-xs-7 col-sm-8">Banda LTE 1(2100), 2(1900), 3(1800), 4(1700/2100), 5(850), 7(2600), 8(900), 12(700), 13(700), 17(700), 18(800), 19(800), 20(800), 25(1900), 26(850), 28(700), 32(1500), 38(2600), 39(1900), 40(2300), 41(2500), 66(1700/2100)</td>
+</tr>
+</tbody>
+</table>
+</div>
+</li>
+</ul>
+<ul class="collapsible col-xs-12">
+<li class="active">
+<div class="collapsible-header row center-xs">
+<span class="col-xs-12 col-sm-11 col-lg-10">Estrutura</span>
+</div>
+<div class="collapsible-body" style="display: block;">
+<table class="row center-xs">
+<tbody class="col-xs-12 col-sm-11 col-lg-10 xs-no-padding-lr">
+<tr class="row center-xs">
+<td class="category-specs col-xs-5 col-sm-4">Dimensões</td>
+<td class="category-value col-xs-7 col-sm-8">147.7 x 68.7 x 8.5 mm</td>
+</tr>
+<tr class="row center-xs">
+<td class="category-specs col-xs-5 col-sm-4">Peso</td>
+<td class="category-value col-xs-7 col-sm-8">163 g</td>
+</tr>
+<tr class="row center-xs">
+<td class="category-specs col-xs-5 col-sm-4">SIM Card</td>
+<td class="category-value col-xs-7 col-sm-8">Single SIM (Nano-SIM) ou Dual SIM (Nano-SIM)</td>
+</tr>
+<tr class="row center-xs">
+<td class="category-specs col-xs-5 col-sm-4">Corpo</td>
+<td class="category-value col-xs-7 col-sm-8">Frente e traseira em vidro, moldura em alumínio</td>
+</tr>
+</tbody>
+</table>
+</div>
+</li>
+</ul>
+<ul class="collapsible col-xs-12">
+<li class="active">
+<div class="collapsible-header row center-xs">
+<span class="col-xs-12 col-sm-11 col-lg-10">Tela</span>
+</div>
+<div class="collapsible-body" style="display: block;">
+<table class="row center-xs">
+<tbody class="col-xs-12 col-sm-11 col-lg-10 xs-no-padding-lr">
+<tr class="row center-xs">
+<td class="category-specs col-xs-5 col-sm-4">Tipo</td>
+<td class="category-value col-xs-7 col-sm-8">Super AMOLED</td>
+</tr>
+<tr class="row center-xs">
+<td class="category-specs col-xs-5 col-sm-4">Tamanho</td>
+<td class="category-value col-xs-7 col-sm-8">5.8 polegadas</td>
+</tr>
+<tr class="row center-xs">
+<td class="category-specs col-xs-5 col-sm-4">Resolução</td>
+<td class="category-value col-xs-7 col-sm-8">1440 x 2960 pixels</td>
+</tr>
+<tr class="row center-xs">
+<td class="category-specs col-xs-5 col-sm-4">Proteção</td>
+<td class="category-value col-xs-7 col-sm-8">Gorilla Glass 5</td>
+</tr>
+</tbody>
+</table>
+</div>
+</li>
+</ul>
+<ul class="collapsible col-xs-12">
+<li class="active">
+<div class="collapsible-header row center-xs">
+<span class="col-xs-12 col-sm-11 col-lg-10">Plataforma</span>
+</div>
+<div class="collapsible-body" style="display: block;">
+<table class="row center-xs">
+<tbody class="col-xs-12 col-sm-11 col-lg-10 xs-no-padding-lr">
+<tr class="row center-xs">
+<td class="category-specs col-xs-5 col-sm-4">Sistema operacional</td>
+<td class="category-value col-xs-7 col-sm-8">Android 9.0 (Pie)</td>
+</tr>
+<tr class="row center-xs">
+<td class="category-specs col-xs-5 col-sm-4">CPU</td>
+<td class="category-value col-xs-7 col-sm-8">Octa-core (4 x 2.7 GHz Mongoose M3 &amp; 4 x 1.8 GHz Cortex-A55) ou Octa-core (4x2.8 GHz Kryo 385 Gold &amp; 4x1.7 GHz Kryo 385 Silver)</td>
+</tr>
+<tr class="row center-xs">
+<td class="category-specs col-xs-5 col-sm-4">GPU</td>
+<td class="category-value col-xs-7 col-sm-8">Mali-G72 MP18 ou Adreno 630</td>
+</tr>
+<tr class="row center-xs">
+<td class="category-specs col-xs-5 col-sm-4">Chipset</td>
+<td class="category-value col-xs-7 col-sm-8">Exynos 9810 (10 nm) ou Qualcomm SDM845 Snapdragon 845 (10 nm)</td>
+</tr>
+</tbody>
+</table>
+</div>
+</li>
+</ul>
+<ul class="collapsible col-xs-12">
+<li class="active">
+<div class="collapsible-header row center-xs">
+<span class="col-xs-12 col-sm-11 col-lg-10">Memória</span>
+</div>
+<div class="collapsible-body" style="display: block;">
+<table class="row center-xs">
+<tbody class="col-xs-12 col-sm-11 col-lg-10 xs-no-padding-lr">
+<tr class="row center-xs">
+<td class="category-specs col-xs-5 col-sm-4">Cartão de Memória</td>
+<td class="category-value col-xs-7 col-sm-8">microSD até 1 TB (compartilha a gaveta do SIM)</td>
+</tr>
+<tr class="row center-xs">
+<td class="category-specs col-xs-5 col-sm-4">Interna</td>
+<td class="category-value col-xs-7 col-sm-8">64/128/256 GB, 4 GB RAM</td>
+</tr>
+</tbody>
+</table>
+</div>
+</li>
+</ul>
+<ul class="collapsible col-xs-12">
+<li class="active">
+<div class="collapsible-header row center-xs">
+<span class="col-xs-12 col-sm-11 col-lg-10">Áudio</span>
+</div>
+<div class="collapsible-body" style="display: block;">
+<table class="row center-xs">
+<tbody class="col-xs-12 col-sm-11 col-lg-10 xs-no-padding-lr">
+<tr class="row center-xs">
+<td class="category-specs col-xs-5 col-sm-4">Alto-Falantes</td>
+<td class="category-value col-xs-7 col-sm-8">Sim (estéreo)</td>
+</tr>
+<tr class="row center-xs">
+<td class="category-specs col-xs-5 col-sm-4">Saída 3.5mm</td>
+<td class="category-value col-xs-7 col-sm-8">Sim</td>
+</tr>
+</tbody>
+</table>
+</div>
+</li>
+</ul>
+<ul class="collapsible col-xs-12">
+<li class="active">
+<div class="collapsible-header row center-xs">
+<span class="col-xs-12 col-sm-11 col-lg-10">Conexões</span>
+</div>
+<div class="collapsible-body" style="display: block;">
+<table class="row center-xs">
+<tbody class="col-xs-12 col-sm-11 col-lg-10 xs-no-padding-lr">
+<tr class="row center-xs">
+<td class="category-specs col-xs-5 col-sm-4">Wireless</td>
+<td class="category-value col-xs-7 col-sm-8">Wi-Fi ac</td>
+</tr>
+<tr class="row center-xs">
+<td class="category-specs col-xs-5 col-sm-4">Bluetooth</td>
+<td class="category-value col-xs-7 col-sm-8">5.0</td>
+</tr>
+<tr class="row center-xs">
+<td class="category-specs col-xs-5 col-sm-4">GPS</td>
+<td class="category-value col-xs-7 col-sm-8">GPS, GLONASS, BDS, GALILEO</td>
+</tr>
+<tr class="row center-xs">
+<td class="category-specs col-xs-5 col-sm-4">Rádio</td>
+<td class="category-value col-xs-7 col-sm-8">Não</td>
+</tr>
+<tr class="row center-xs">
+<td class="category-specs col-xs-5 col-sm-4">USB</td>
+<td class="category-value col-xs-7 col-sm-8">3.1, Tipo-C</td>
+</tr>
+<tr class="row center-xs">
+<td class="category-specs col-xs-5 col-sm-4">NFC</td>
+<td class="category-value col-xs-7 col-sm-8">Sim</td>
+</tr>
+</tbody>
+</table>
+</div>
+</li>
+</ul>
+<ul class="collapsible col-xs-12">
+<li class="active">
+<div class="collapsible-header row center-xs">
+<span class="col-xs-12 col-sm-11 col-lg-10">Recursos</span>
+</div>
+<div class="collapsible-body" style="display: block;">
+<table class="row center-xs">
+<tbody class="col-xs-12 col-sm-11 col-lg-10 xs-no-padding-lr">
+<tr class="row center-xs">
+<td class="category-specs col-xs-5 col-sm-4">Sensores</td>
+<td class="category-value col-xs-7 col-sm-8">Leitor de íris, leitor de digitais (traseiro), acelerômetro, giroscópio, proximidade, bússola, barômetro, batimento cardíaco, SpO2</td>
+</tr>
+</tbody>
+</table>
+</div>
+</li>
+</ul>
+<ul class="collapsible col-xs-12">
+<li class="active">
+<div class="collapsible-header row center-xs">
+<span class="col-xs-12 col-sm-11 col-lg-10">Câmera Principal</span>
+</div>
+<div class="collapsible-body" style="display: block;">
+<table class="row center-xs">
+<tbody class="col-xs-12 col-sm-11 col-lg-10 xs-no-padding-lr">
+<tr class="row center-xs">
+<td class="category-specs col-xs-5 col-sm-4">Única</td>
+<td class="category-value col-xs-7 col-sm-8">12 MP, f/1.5-2.4, 26mm (wide), 1/2.55", 1.4µm, PDAF dual pixel, estabilização óptica</td>
+</tr>
+<tr class="row center-xs">
+<td class="category-specs col-xs-5 col-sm-4">Recursos</td>
+<td class="category-value col-xs-7 col-sm-8">Flash LED</td>
+</tr>
+<tr class="row center-xs">
+<td class="category-specs col-xs-5 col-sm-4">Vídeo</td>
+<td class="category-value col-xs-7 col-sm-8">2160p@60fps, 1080p@240fps, 720p@960fps, HDR</td>
+</tr>
+</tbody>
+</table>
+</div>
+</li>
+</ul>
+<ul class="collapsible col-xs-12">
+<li class="active">
+<div class="collapsible-header row center-xs">
+<span class="col-xs-12 col-sm-11 col-lg-10">Câmera Secundária</span>
+</div>
+<div class="collapsible-body" style="display: block;">
+<table class="row center-xs">
+<tbody class="col-xs-12 col-sm-11 col-lg-10 xs-no-padding-lr">
+<tr class="row center-xs">
+<td class="category-specs col-xs-5 col-sm-4">Única</td>
+<td class="category-value col-xs-7 col-sm-8">8 MP, f/1.7, 25mm (wide), 1/3.6", 1.22µm</td>
+</tr>
+<tr class="row center-xs">
+<td class="category-specs col-xs-5 col-sm-4">Vídeo</td>
+<td class="category-value col-xs-7 col-sm-8">1440p@30fps</td>
+</tr>
+<tr class="row center-xs">
+<td class="category-specs col-xs-5 col-sm-4">Recursos</td>
+<td class="category-value col-xs-7 col-sm-8">Auto-HDR</td>
+</tr>
+</tbody>
+</table>
+</div>
+</li>
+</ul>
+</section>

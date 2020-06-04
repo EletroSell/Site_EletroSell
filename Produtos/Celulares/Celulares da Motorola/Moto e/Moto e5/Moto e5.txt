@@ -1,0 +1,30 @@
+PREÇO 999
+Marca	Motorola
+Modelo	XT1920-19
+Cor	
+Tipo de Chip	Nano Chip
+Quantidade de Chips	Dual Chip
+Memória Interna	16GB
+Memória RAM	1GB
+Processador	Qualcomm Snapdragon 425 (MSM8917) - 1.4 GHz Quad-Core
+Sistema Operacional	Android
+Versão	Android - 8.1.0 - versão Go
+Tipo de tela	LCD IPS
+Tamanho do Display	5.4"
+Resolução	FW+ (960 x 480)
+Câmera traseira	8MP
+Câmera frontal	5MP
+Filmadora	Full HD
+Expansivo até	MicroSD até 256GB
+Alimentação/Tipo de bateria	2100 mAh
+Banda	2G - GSM 850/900/1800/1900 MHz; 3G - WCDMA 850/900/1700/1900/2100 MHz; 4G - LTE B1/B2/B3/B4/B5/B7/B28
+Conectividade	Wi-Fi, 3G, 4G
+NFC	Não
+TV	Não possui
+Recursos de Chamada	Chamada por Voz
+Conteúdo da Embalagem	1 Telefone preto com capa preta, 1 kit de manuais, 1 cabo de sincronização, 1 fone de ouvido estéreo, 1 carregador de parede e 1 bateria
+Dimensões aproximadas do produto - cm (AxLxP)	14,7x7,1x0,9cm
+Peso líq. aproximado do produto (kg)	145g
+Garantia do Fornecedor	12 Meses
+Referência do modelo	XT1920-19
+Fornecedor	Flexitronics Internacional Tecnologia LTDA

@@ -1,0 +1,58 @@
+PREÇO 3.899
+
+REDE
+Tecnologia  GSM / CDMA / HSPA / LTE / 5G
+Bandas 2G  GSM 850 / 900 / 1800 / 1900
+Bandas 3G  HSDPA 850 / 900 / 1700(AWS) / 1900 / 2100
+Velocidade  HSPA 42.2/5.76 Mbps, LTE-A, 5G
+Bandas 4G  LTE
+5G  5G SA/NSA
+
+ESTRUTURA
+Dimensões
+Peso
+
+SIM Card  Dual SIM (Nano SIM)
+Corpo  Vidro frontal e traseiro (Gorilla Glass 6), bordas de alumínio série 7000
+
+TELA
+Tipo  Super AMOLED
+Tamanho  6.39 polegadas
+Resolução  1080 x 2340 pixels
+Proteção  Corning Gorilla Glass 6
+
+PLATAFORMA
+Sistema operacional  Android 10
+CPU  Octa-core (1x2.84 GHz Kryo 585 & 3x2.42 GHz Kryo 585 & 4x1.8 GHz Kryo 585)
+GPU  Adreno 650
+Chipset  Qualcomm SM8250 Snapdragon 865 (7 nm+)
+
+MEMÓRIA
+Cartão de Memória  Não
+Interna  128 GB 8 GB RAM, 256 GB 12 GB RAM, 512 GB 16 GB RAM
+
+ÁUDIO
+Alto-Falantes  Sim
+Saída 3.5mm  Não
+
+CONEXÕES
+Wireless  Wi-Fi ac
+Bluetooth  5.0
+GPS  GPS, GLONASS, BDS, GALILEO, QZSS
+Rádio  Não
+USB  2.0, Tipo-C
+NFC  Sim
+Infravermelho  Sim
+
+RECURSOS
+Sensores  Sensor de impressões digitais (sob o display, óptico), acelerômetro, giroscópio, proximidade, bússola
+
+CÂMERA PRINCIPAL
+Recursos  Flash LED duplo, HDR
+Vídeo  2160p@30/60fps, 1080p@30/120/240fps, 1080p@960fps
+Tripla  108 MP, f/1.8, (wide), PDAF, foco laser, estabilização óptica + 12 MP, f/2.2, 54mm (teleobjetiva), 1/3.6", 1.0µm, PDAF, foco laser, zoom óptico 2x + 16 MP, f/2.2, 13mm (ultrawide), 1/3.0", 1.0µm, PDAF, foco laser + 5 MP, sensor de profundidade
+
+CÂMERA SECUNDÁRIA
+Única  20 MP, f/2.0, (wide), 1/3", 0.9µm
+Vídeo  1080p@30fps
+Recursos  HDR

@@ -1,0 +1,54 @@
+PREÇO 1.699
+
+REDE
+Tecnologia  GSM / HSPA / LTE
+Bandas 2G  GSM 850 / 900 / 1800 / 1900
+Bandas 3G  HSDPA 850 / 900 / 2100
+Velocidade  HSPA 42.2/11.5 Mbps, LTE-A
+Bandas 4G  Banda LTE 1(2100), 3(1800), 5(850), 8(900), 38(2600), 40(2300), 41(2500)
+
+ESTRUTURA
+Dimensões  158.3 x 75.3 x 8.4 mm
+Peso  190 gramas
+SIM Card  Dual SIM (Nano SIM)
+Corpo  Vidro frontal, corpo de plástico
+
+TELA 
+Tipo  LCD IPS
+Tamanho  6.3 polegadas
+Resolução  1080 x 2340 pixels
+
+PLATAFORMA
+Sistema operacional  Android 9.0 (Pie)
+CPU  Octa-core (4x 2.0 GHz Kryo 260 Gold & 4x 1.8 GHz Kryo 260 Silver)
+GPU  Adreno 610
+Chipset  Qualcomm SDM665 Snapdragon 665 (11 nm)
+
+MEMÓRIA
+Cartão de Memória  microSD até 256 GB
+Interna  64 GB 4 GB RAM, 64/128 GB 6 GB RAM
+
+ÁUDIO
+Alto-Falantes  Sim
+Saída 3.5mm  Sim
+
+CONEXÕES
+Wireless  Wi-Fi ac
+Bluetooth  5.0
+GPS  GPS, GLONASS, GALILEO, BDS
+Rádio  Sim
+USB  2.0, Tipo-C
+Infravermelho  Sim
+
+RECURSOS  
+Sensores  Leitor de digitais (traseiro), acelerômetro, giroscópio, proximidade, bússola
+
+CÂMERA PRINCIPAL
+Recursos  Flash LED, HDR
+Vídeo  2160p@30fps, 1080p@30/60/120fps, 720p@960fps
+Quádrupla  48 MP, f/1.8, (wide), 1/2", 0.8µm, PDAF + 8 MP, f/2.2, 13mm (ultrawide), 1/4", 1.12µm + 2 MP, f/2.4, 1/5", 1.75µm (câmera macro dedicada) + 2 MP, f/2.4, 1/5", 1.75µm, sensor de profundidade
+
+CÂMERA SECUNDÁRIA
+Única  13 MP, f/2.0
+Vídeo  1080p@30fps
+Recursos  HDR

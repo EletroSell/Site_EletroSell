@@ -1,0 +1,31 @@
+4.299
+Marca	Apple
+Modelo	iPhone 7 Plus
+Cor	
+Tipo de Chip	Nano Chip
+Quantidade de Chips	Single Chip
+Memória Interna	128GB
+Memória RAM	2GB
+Processador	A10
+Sistema Operacional	iOS
+Versão	IOS 10
+Tipo de tela	Retina Display
+Tamanho do Display	5.5"
+Resolução	1920 x 1080 pixels, 401 ppp
+Câmera traseira	12MP
+Câmera frontal	7MP
+Filmadora	4K
+Expansivo até	Não possui entrada para cartão de memória
+Alimentação/Tipo de bateria	Bateria de íon de lítio recarregável
+Banda	Wi-Fi 802.11a/b/g/n/ac com MIMO Tecnologia Bluetooth 4.2 NFC
+Conectividade	Wi-Fi, 4G
+NFC	Sim
+TV	Não
+Recursos de Chamada	Viva Voz
+Outros Recursos	Resistente a água e poeira,IP67, norma IEC 60529
+Conteúdo da Embalagem	iPhone; EarPods com conector Lightning; Cabo Lightning para USB; e Carregador USB de 5W
+Dimensões aproximadas do produto - cm (AxLxP)	0,7x7,7x15,8cm
+Peso líq. aproximado do produto (kg)	188g
+Garantia do Fornecedor	12 Meses
+Referência do modelo	MN4Q2BZ/A
+Fornecedor	Apple

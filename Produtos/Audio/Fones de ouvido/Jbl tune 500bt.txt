@@ -1,0 +1,42 @@
+PREÇO 259,00
+Especificações Gerais
+Versão do Bluetooth4.1
+Material da almofada auricularFrog skin PU leather
+
+Especificações de Áudio
+Driver (mm)32.0
+Sensibilidade do Driver a 1kHz1mW (dB)1kHz - 24dBV/Pa
+Impedância de entrada (ohms)32.0
+Número de drivers por ouvido1.0
+
+Dimensões
+Peso (g)155.0
+Peso (oz)5.7
+
+Especificações de Controle e Conexão
+Perfis bluetoothBT 4.1, A2DP v1.2, AVRCP v1.5, HFP v1.6, HSP v1.2
+Faixa de frequência do emissor bluetooth2.402 – 2.480GHz
+GFSK de modulação do emissor bluetoothGSFK, π/4 DQPSK, 8DPSK
+Potência de emissão de bluetooth<4 dbm
+
+Bateria
+Resposta de Frequência Dinâmica20 Hz - 20 kHz
+Tipo de BateriaLithium-ion Polymer (3.7V, 300mAH)
+Tempo de carregamento (h)2
+Tempo máximo de reprodução de música com ANC desligado (h)16.0
+Tempo de carregamento rápido (h)2.0
+Tempo de fala (h)16.0
+
+Características
+Bixby Não
+Microfone integrado  Sim
+Design plano-dobrável  Sim
+Chamada Sem Utilizar as Mãos  Sim
+JBL Pure Bass Sound  Sim
+Conexão Multi-Point  Sim
+On-ear [sobre a orelha]  Sim
+Bateria recarregável  Sim
+Controle remoto nos protetores auriculares?  Sim
+Siri/ Google Now  Sim
+Carregamento rápido  Não
+Wireless  Sim

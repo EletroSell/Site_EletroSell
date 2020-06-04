@@ -1,0 +1,31 @@
+PREÇO 4.099
+Dimensões do produto - cm (AxLxP)	15,1x7,6x0,8cm
+Peso liq. aproximado do produto (Kg)	470g
+Referência do Modelo	IPHONE 11 BLACK 256GB-BRA
+SAC	0800-761-0867
+Tipo de Chip	Nano Chip
+Sistema Operacional	Iphone IOS
+Versão S.O.	iOS 13
+Fabricante	Apple Computer Brasil
+Tipo de Tela	Retina Display
+Tamanho do Display	6.15''
+Resolução	Resolução de 1792 x 828 pixels a 326 ppp
+Multichip	Dual Chip
+Câmera traseira	12MP
+Câmera frontal	2.2MP
+Filmadora	4K
+Sintonizador de TV	Não possui
+NFC	Sim
+Processador	A13 Bionic Neural Engine de terceira geração
+Memória RAM	2GB
+Memória Interna	256GB
+Expansivo até?	Não possui entrada para cartão de memória
+Banda	3G/4G
+Conexões	Wi-Fi,3G,4G
+Recursos de chamada	Viva Voz
+Alimentação, tipo de bateria	Bateria interna recarregável de íon de lítio
+Modelo	MWM72BZ/A
+Outros Recursos	N/A
+Cor	
+Conteúdo da Embalagem	iPhone com iOS 13, EarPods com conector Lightning, Cabo de Lightning para USB, Carregador USB, Documentação,
+Garantia do Fornecedor	12 Meses

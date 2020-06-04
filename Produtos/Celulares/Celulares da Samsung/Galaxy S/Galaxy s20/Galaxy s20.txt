@@ -1,0 +1,56 @@
+PREÇO 4.499
+
+REDE
+Tecnologia  GSM / CDMA / HSPA / EVDO / LTE / 5G
+Bandas 2G  GSM 850 / 900 / 1800 / 1900
+Bandas 3G  HSDPA 850 / 900 / 1900 / 2100
+Velocidade  HSPA 42.2/5.76 Mbps, LTE-A (7CA) Cat20 2000/200 Mbps; 5G
+Bandas 4G  Banda LTE 1(2100), 2(1900), 3(1800), 4(1700/2100), 5(850), 7(2600), 8(900), 12(700), 13(700), 17(700), 18(800), 19(800), 20(800), 25(1900), 26(850), 28(700), 32(1500), 38(2600), 39(1900), 40(2300), 41(2500), 66(1700/2100)
+5G  5G band 1(2100), 3(1800), 5(850), 7(2600), 8(900), 28(700), 40(2300), 77(3700), 78(3500); SA/NSA/Sub6
+
+ESTRUTURA
+Dimensões  152 x 68 x 7.9 mm
+Peso  164 g
+SIM Card  Dual SIM (Nano-SIM e/ou eSIM) ou híbrido Dual SIM (Nano-SIM)
+Corpo  Vidro frontal e traseiro (Gorilla Glass 6), bordas de alumínio
+
+TELA
+Tipo  AMOLED Dinâmica
+Tamanho  6.2 polegadas
+Resolução  1440 x 3200 pixels
+Proteção  Corning Gorilla Glass 6
+
+PLATAFORMA
+Sistema operacional  Android 10
+CPU  Octa-core (2x2.73 GHz Mongoose M5 & 2x2.60 GHz Cortex-A76 & 4x2.0 GHz Cortex-A55) - Global Octa-core (1x2.84 GHz Kryo 585 & 3x2.42 GHz Kryo 585 & 4x1.8 GHz Kryo 585) - Estados Unidos
+GPU  Mali-G77 MP11 - Global Adreno 650 - Estados Unidos
+Chipset  Exynos 990 (7 nm+) - Global Qualcomm SM8250 Snapdragon 865 (7 nm+) - Estados Unidos
+
+MEMÓRIA
+Cartão de Memória  Sim, compartilha a gaveta do segundo chip SIM
+Interna  128 GB, 8 GB RAM
+
+ÁUDIO
+Alto-Falantes  Sim (estéreo)
+Saída 3.5mm  Não
+
+CONEXÕES
+Wireless  Wi-Fi ax (Wifi 6)
+Bluetooth  5.0
+GPS  GPS, GLONASS, BDS, GALILEO
+Rádio  Não
+USB  3.2, Tipo-C
+NFC  Sim
+
+RECURSOS
+Sensores  Sensor de impressões digitais (sub o display, ultrassônico), acelerômetro, giroscópio, proximidade, bússola, barômetro
+
+CÂMERA PRINCIPAL
+Recursos  Flash LED
+Vídeo  3240p@30fps, 2160p@30/60fps, 1080p@30/60/240fps, 720p@960fps, HDR10+, dual-video rec., stereo sound rec., gyro-EIS & OIS
+Tripla  12 MP, f/1.8, 26mm (wide), Dual Pixel PDAF, estabilização óptica + 64 MP, f/2.0, (teleobjetiva), PDAF, estabilização óptica, zoom óptica 3x + 12 MP, f/2.2, 13mm (ultrawide), Super Steady
+
+CÂMERA SECUNDÁRIA
+Vídeo  2160p@30/60fps, 1080p@30fps
+Recursos  Auto-HDR
+Dupla  10 MP, f/2.2, 26mm (wide), 1/3.2", 1.22µm, PDAF Dual Pixel

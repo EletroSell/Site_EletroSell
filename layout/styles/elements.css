@@ -230,7 +230,7 @@ Licence: <a href="https://www.os-templates.com/template-terms">Website Template 
 
 .tab-wrapper{display:block; width:100%;}
 .tab-wrapper .tab-nav{position:relative; margin:0; padding:0; list-style:none;}
-.tab-wrapper .tab-nav li{display:inline-block; float:left; margin:0 -1px -1px 0;}
+.tab-wrapper .tab-nav li{display:inline-block; margin:0 -1px -1px 0;}
 .tab-wrapper .tab-nav li a{display:block; padding:10px 20px; border:1px solid #E5E4E3;}
 .tab-wrapper .tab-nav li a:hover, .tab-wrapper .tab-nav li.ui-tabs-active a{color:#919191;}
 .tab-wrapper .tab-nav li.ui-tabs-active a{border-bottom-color:#FFFFFF; cursor:default;}

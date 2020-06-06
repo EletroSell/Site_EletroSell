@@ -13,3 +13,10 @@ Licence: <a href="https://www.os-templates.com/template-terms">Website Template 
 .email{
    color: #DBDBDB;
 }
+
+.imgmodel{
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   height: 300px ;
+}

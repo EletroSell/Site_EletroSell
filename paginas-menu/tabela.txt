@@ -1,6 +1,6 @@
 <div >
             <div >
-              O Samsung Galaxy A80 é um smartphone <a href="https://www.tudocelular.com/buscatelefone/44.html" style="color: #00597B !important;" title="Ver todos os celular com Sistema Operacional Android"><b>Android</b></a> avançado e abrangente em todos os pontos de vista com algumas características excelentes. Tem uma grande tela de <b>6.7</b> polegadas com uma resolução de <b>2400x1080</b> pixels. As funcionalidades oferecidas pelo Samsung Galaxy A80 são muitas e inovadoras. Começando pelo <b>LTE 4G</b> que permite a transferência de dados e excelente navegação na internet. Enfatizamos a excelente memória interna de <b>128 GB</b> mas sem a possibilidade de expansão. <br>O Samsung Galaxy A80 é um produto com poucos concorrentes em termos de multimídia graças à câmera de <b>48</b> megapixels que permite ao Samsung Galaxy A80 tirar fotos fantásticas com uma resolução de <b>8000x6000</b> pixels e gravar vídeos em <b>4K</b> a espantosa resolução de <b>3840x2160</b> pixels. <br>
+             
             </div>
 
             <ul>
@@ -11,158 +11,157 @@
                   <table>
                   <tbody>
                     <tr>
-                      <td class="fonte_negrito">PRE&Ccedil;O</td>
-                      <td>3.499</td>
-                    </tr>
-                    <tr>
-                      <td class="fonte_negrito">&nbsp;Fabricante</td>
-                      <td>Samsung</td>
-                    </tr>
-                    <tr>
-                      <td class="fonte_negrito" >&nbsp;Expansivo até?</td>
-                      <td>Não possui entrada para cartão de memória</td>
-                    </tr>
-                    <tr>
-                      <td class="fonte_negrito" rowspan="5">&nbsp;Banda</td>
-                      <td>B1(2100)</td>
-                    </tr>
-                    <tr>
-                      <td>B2(1900)</td>
-                    </tr>
-                    <tr>
-                      <td>B4(AWS)</td>
-                    </tr>
-                    <tr>
-                      <td>B5(850)</td>
-                    </tr>
-                    <tr>
-                      <td>B8(900)</td>
-                    </tr>
-                    <tr>
-                      <td class="fonte_negrito" rowspan="3">&nbsp;Conexões</td>
-                      <td>Wi-Fi</td>
-                    </tr>
-                    <tr>
-                      <td>3G</td>
-                    </tr>
-                    <tr>
-                      <td>4G</td>
-                    </tr>
-                    <tr>
-                      <td class="fonte_negrito">&nbsp;Alimentação, tipo de bateria</td>
-                      <td>Bateria de Íons de Lítio de 3700 mAh</td>
-                    </tr>
-                    <tr>
-                      <td class="fonte_negrito">Modelo</td>
-                      <td>SM-A207M/32DL</td>
-                    </tr>
-                    <tr>
-                      <td class="fonte_negrito">Cor</td>
+                      <td class="fonte_negrito"></td>
                       <td></td>
                     </tr>
                     <tr>
-                      <td class="fonte_negrito" rowspan="6">&nbsp;Conte&uacute;do&nbsp;da&nbsp;Embalage</td>
-                      <td>Aparelho celular</td>
+                      <td class="fonte_negrito"</td>
+                      <td></td>
                     </tr>
                     <tr>
-                      <td>carregador</td>
+                      <td class="fonte_negrito" ></td>
+                      <td></td>
                     </tr>
                     <tr>
-                      <td>cabo USB</td>
+                      <td class="fonte_negrito" rowspan="5"></td>
                     </tr>
                     <tr>
-                      <td>fone de ouvido</td>
+                      <td</td>
                     </tr>
                     <tr>
-                      <td>Extrator de Chip</td>
+                      <td></td>
                     </tr>
                     <tr>
-                      <td>manual do usu&aacute;rio</td>
+                      <td></td>
                     </tr>
                     <tr>
-                      <td class="fonte_negrito">&nbsp;Garantia&nbsp;do&nbsp;Fornecedor</td>
-                      <td>12 Meses</td>
+                      <td></td>
                     </tr>
                     <tr>
-                      <td class="fonte_negrito">&nbsp;Dimens&otilde;es&nbsp;aproximadas&nbsp;do&nbsp;produto&nbsp;-&nbsp;cm</td>
-                      <td>16, x7,6x0,9cm</td>
+                      <td class="fonte_negrito" rowspan="3"></td>
+                      <td></td>
                     </tr>
                     <tr>
-                      <td class="fonte_negrito">&nbsp;Peso&nbsp;l&iacute;q&nbsp;aproximado&nbsp;do&nbsp;produto&nbsp;(kg)</td>
-                      <td>220g</td>
+                      <td></td>
                     </tr>
                     <tr>
-                      <td class="fonte_negrito">Referência do Modelo</td>
-                      <td>Galaxy A80</td>
+                      <td></td>
                     </tr>
                     <tr>
-                      <td class="fonte_negrito">&nbsp;Tipo de Chip</td>
-                      <td>Nano Chip</td>
+                      <td class="fonte_negrito"></td>
+                      <td></td>
                     </tr>
                     <tr>
-                      <td class="fonte_negrito">&nbsp;Sistema Operacional</td>
-                      <td>Android</td>
+                      <td class="fonte_negrito"></td>
+                      <td></td>
                     </tr>
                     <tr>
-                      <td class="fonte_negrito">&nbsp;Versão S.O.</td>
-                      <td>9.0</td>
+                      <td class="fonte_negrito"></td>
+                      <td></td>
                     </tr>
                     <tr>
-                      <td class="fonte_negrito">&nbsp;Tipo de Tela</td>
-                      <td>Super AMOLED</td>
+                      <td class="fonte_negrito" rowspan="6"></td>
+                      <td></td>
                     </tr>
                     <tr>
-                      <td class="fonte_negrito">&nbsp;Tamanho do Display</td>
-                      <td>6.7</td>
+                      <td></td>
                     </tr>
                     <tr>
-                      <td class="fonte_negrito">&nbsp;Resolução</td>
-                      <td>720 x 1560 (HD+)</td>
+                      <td></td>
                     </tr>
                     <tr>
-                      <td class="fonte_negrito">&nbsp;Multichip</td>
-                      <td>Dual Chip</td>
+                      <td></td>
                     </tr>
                     <tr>
-                      <td class="fonte_negrito">&nbsp;C&acirc;mera&nbsp;traseira</td>
-                      <td>C&acirc;mera 48+5MP</td>
+                      <td></td>
                     </tr>
                     <tr>
-                      <td class="fonte_negrito">&nbsp;C&acirc;mera&nbsp;frontal</td>
-                      <td>41MP</td>
+                      <td></td>
                     </tr>
                     <tr>
-                      <td class="fonte_negrito">Filmadora</td>
-                      <td>Full HD</td>
+                      <td class="fonte_negrito"></td>
+                      <td></td>
                     </tr>
                     <tr>
-                      <td class="fonte_negrito">&nbsp;Sintonizador de TV</td>
-                      <td>Não possui</td>
+                      <td class="fonte_negrito"></td>
+                      <td></td>
                     </tr>
                     <tr>
-                      <td class="fonte_negrito">&nbsp;NFC</td>
-                      <td>Sim</td>
+                      <td class="fonte_negrito"></td>
+                      <td></td>
                     </tr>
                     <tr>
-                      <td class="fonte_negrito">&nbsp;Processador</td>
-                      <td>Octa-Core 1.8 GHz</td>
+                      <td class="fonte_negrito"></td>
+                      <td></td>
                     </tr>
                     <tr>
-                      <td class="fonte_negrito">&nbsp;Memória RAM</td>
-                      <td>8GB</td>
+                      <td class="fonte_negrito"</td>
+                      <td></td>
                     </tr>
                     <tr>
-                      <td class="fonte_negrito">&nbsp;Memória Interna</td>
-                      <td>128GB</td>
+                      <td class="fonte_negrito"></td>
+                      <td></td>
+                    </tr>
+                    <tr>
+                      <td class="fonte_negrito"></td>
+                      <td></td>
+                    </tr>
+                    <tr>
+                      <td class="fonte_negrito"></td>
+                      <td></td>
+                    </tr>
+                    <tr>
+                      <td class="fonte_negrito"></td>
+                      <td></td>
+                    </tr>
+                    <tr>
+                      <td class="fonte_negrito"></td>
+                      <td></td>
+                    </tr>
+                    <tr>
+                      <td class="fonte_negrito"></td>
+                      <td></td>
+                    </tr>
+                    <tr>
+                      <td class="fonte_negrito"></td>
+                      <td></td>
+                    </tr>
+                    <tr>
+                      <td class="fonte_negrito"></td>
+                      <td></td>
+                    </tr>
+                    <tr>
+                      <td class="fonte_negrito"></td>
+                      <td></td>
+                    </tr>
+                    <tr>
+                      <td class="fonte_negrito"></td>
+                      <td></td>
+                    </tr>
+                    <tr>
+                      <td class="fonte_negrito"></td>
+                      <td></td>
+                    </tr>
+                    <tr>
+                      <td class="fonte_negrito"></td>
+                      <td></td>
+                    </tr>
+                    <tr>
+                      <td class="fonte_negrito"></td>
+                      <td></td>
+                    </tr>
+                    <tr>
+                      <td class="fonte_negrito"></td>
+                      <td></td>
                     </tr>
                     
                     <tr>
-                      <td class="fonte_negrito">Modelo</td>
-                      <td>SM-A805F/1DL</td>
+                      <td class="fonte_negrito"></td>
+                      <td></td>
                     </tr>
                     <tr>
-                      <td class="fonte_negrito">&nbsp;Fornecedor</td>
-                      <td>Samsung</td>
+                      <td class="fonte_negrito"></td>
+                      <td></td>
                     </tr>
                   </tbody>
                    </table>

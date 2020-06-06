@@ -13,10 +13,10 @@ Licence: <a href="https://www.os-templates.com/template-terms">Website Template 
 .calltoaction p{margin:0; padding:0; line-height:1.4em; text-transform:none;}
 .calltoaction .button{display:block; text-align:center; line-height:1.4em;}
 
-.calltoaction.opt1{border:solid #FF9900; border-width:0 0 0 5px;}
-.calltoaction.opt2{border:solid #FF9900; border-width:0 5px 0 0;}
-.calltoaction.opt3{border:solid #FF9900; border-width:0 5px;}
-.calltoaction.opt4{border:solid #FF9900; border-width:2px 0; font-size:1.8em;}
+.calltoaction.opt1{border:solid #2e4bcc; border-width:0 0 0 5px;}
+.calltoaction.opt2{border:solid #2e4bcc; border-width:0 5px 0 0;}
+.calltoaction.opt3{border:solid #2e4bcc; border-width:0 5px;}
+.calltoaction.opt4{border:solid #2e4bcc; border-width:2px 0; font-size:1.8em;}
 #container .calltoaction.opt4 h1{margin:15px 0 0 0;}
 
 /* Lists - For ul + ol */
@@ -44,7 +44,7 @@ Licence: <a href="https://www.os-templates.com/template-terms">Website Template 
 
 .list.tagcloud li{display:inline-block; margin:0 5px 5px 0;}
 .list.tagcloud li a{display:block; padding:4px 10px; color:#FFFFFF; background-color:#A8A8A8; text-transform:capitalize;}
-.list.tagcloud li a:hover{color:#FFFFFF; background-color:#FF9900;}
+.list.tagcloud li a:hover{color:#FFFFFF; background-color:#2e4bcc;}
 
 /* Base Colours */
 
@@ -52,7 +52,7 @@ Licence: <a href="https://www.os-templates.com/template-terms">Website Template 
 .green{color:#C0E079;}
 .grey{color:#A8A8A8;}
 .dkgrey{color:#333333;}
-.orange{color:#FF9900;}
+.orange{color:#2e4bcc;}
 .purple{color:#9F81A9;}
 .red{color:#D54346;}
 .yellow{color:#FDE803;}
@@ -61,7 +61,7 @@ Licence: <a href="https://www.os-templates.com/template-terms">Website Template 
 .bg_green{color:#FFFFFF; background-color:#C0E079;}
 .bg_grey{color:#FFFFFF; background-color:#A8A8A8;}
 .bg_dkgrey{color:#FFFFFF; background-color:#333333;}
-.bg_orange{color:#FFFFFF; background-color:#FF9900;}
+.bg_orange{color:#FFFFFF; background-color:#2e4bcc;}
 .bg_purple{color:#FFFFFF; background-color:#9F81A9;}
 .bg_red{color:#FFFFFF; background-color:#D54346;}
 .bg_yellow{color:#666666; background-color:#FDE803;}
@@ -128,17 +128,17 @@ Licence: <a href="https://www.os-templates.com/template-terms">Website Template 
 	background:linear-gradient(#C9C9C9 0%,#A8A8A8 100%);
 	}
 
-.button.orange{color:#FFFFFF; background-color:#FF9900; border-color:#CC7500;}
-.button.orange:hover{color:#FF9900; background-color:#A66000; border-color:#FF9900;}
+.button.orange{color:#FFFFFF; background-color:#2e4bcc; border-color:#CC7500;}
+.button.orange:hover{color:#2e4bcc; background-color:#A66000; border-color:#2e4bcc;}
 .button.orange.gradient{
 	background:#A66000;
 	background:url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHZpZXdCb3g9IjAgMCAxIDEiIHByZXNlcnZlQXNwZWN0UmF0aW89Im5vbmUiPgo8bGluZWFyR3JhZGllbnQgaWQ9ImcxODIiIGdyYWRpZW50VW5pdHM9InVzZXJTcGFjZU9uVXNlIiB4MT0iMCUiIHkxPSIwJSIgeDI9IjAlIiB5Mj0iMTAwJSI+CjxzdG9wIHN0b3AtY29sb3I9IiNGRjkwMDAiIG9mZnNldD0iMCIvPjxzdG9wIHN0b3AtY29sb3I9IiNBNjYwMDAiIG9mZnNldD0iMSIvPgo8L2xpbmVhckdyYWRpZW50Pgo8cmVjdCB4PSIwIiB5PSIwIiB3aWR0aD0iMSIgaGVpZ2h0PSIxIiBmaWxsPSJ1cmwoI2cxODIpIiAvPgo8L3N2Zz4=);
-	background:-moz-linear-gradient(#FF9000 0%, #A66000 100%);
-	background:-webkit-gradient(color-stop(0%,#FF9000), color-stop(100%,#A66000));
-	background:-webkit-linear-gradient(#FF9000 0%,#A66000 100%);
-	background:-o-linear-gradient(#FF9000 0%,#A66000 100%);
-	background:-ms-linear-gradient(#FF9000 0%,#A66000 100%);
-	background:linear-gradient(#FF9000 0%,#A66000 100%);
+	background:-moz-linear-gradient(#2e4bcc 0%, #A66000 100%);
+	background:-webkit-gradient(color-stop(0%,#2e4bcc), color-stop(100%,#A66000));
+	background:-webkit-linear-gradient(#2e4bcc 0%,#A66000 100%);
+	background:-o-linear-gradient(#2e4bcc 0%,#A66000 100%);
+	background:-ms-linear-gradient(#2e4bcc 0%,#A66000 100%);
+	background:linear-gradient(#2e4bcc 0%,#A66000 100%);
 	}
 
 .button.purple{color:#FFFFFF; background-color:#9F81A9; border-color:#74557D;}
@@ -230,7 +230,7 @@ Licence: <a href="https://www.os-templates.com/template-terms">Website Template 
 
 .tab-wrapper{display:block; width:100%;}
 .tab-wrapper .tab-nav{position:relative; margin:0; padding:0; list-style:none;}
-.tab-wrapper .tab-nav li{display:inline-block; float:left; margin:0 -1px -1px 0;}
+.tab-wrapper .tab-nav li{display:inline-block; margin:0 -1px -1px 0;}
 .tab-wrapper .tab-nav li a{display:block; padding:10px 20px; border:1px solid #E5E4E3;}
 .tab-wrapper .tab-nav li a:hover, .tab-wrapper .tab-nav li.ui-tabs-active a{color:#919191;}
 .tab-wrapper .tab-nav li.ui-tabs-active a{border-bottom-color:#FFFFFF; cursor:default;}

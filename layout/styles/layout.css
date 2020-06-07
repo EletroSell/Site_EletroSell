@@ -8,7 +8,7 @@ Licence: <a href="https://www.os-templates.com/template-terms">Website Template 
 
 html{overflow-y:scroll;}
 
-body{margin:0; padding:0; font-size:14px; color:#919191; background-color:#232323;}
+body{margin:0; padding:0; font-size:14px; color:#919191; background-color:#080808;}
 body.boxed{color:#919191; background-color:#000000;}
 
 .justify{text-align:justify;}
@@ -46,7 +46,7 @@ address, article, aside, figcaption, figure, footer, header, nav, section{displa
 
 div.wrapper, .wrapper100{display:block; width:100%; margin:0; padding:0; text-align:left; word-wrap:break-word;}
 
-.row1, .row1 a{color:#DBDBDB; background-color:#232323;}
+.row1, .row1 a{color:#DBDBDB; background-color:#000000;}
 .row2{color:#919191; background-color:#131313; border-bottom:1px solid #333333;}
 .row3{color:#666666; background-color:#FFFFFF;}
 .row4, .row4 a{color:#919191; background-color:#232323;}

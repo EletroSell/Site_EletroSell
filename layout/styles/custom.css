@@ -20,12 +20,6 @@ Licence: <a href="https://www.os-templates.com/template-terms">Website Template 
    margin-right: auto;
    height: 300px ;
 }
-a{
-   color: greenyellow;
-}
-a:visited{
-   color: indigo;
-}
-a:hover{
-   color: lightcoral;
-}
+
+a:visited{color: rgb(65, 61, 61);}
+a:hover{color: rgb(23, 39, 185);}

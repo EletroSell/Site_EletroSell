@@ -21,5 +21,9 @@ Licence: <a href="https://www.os-templates.com/template-terms">Website Template 
    height: 300px ;
 }
 
-a:visited{color: rgb(65, 61, 61);}
-a:hover{color: rgb(23, 39, 185);}
+a:visited{
+   color: rgb(65, 61, 61);
+}
+a:hover{
+   color: rgb(23, 39, 185);
+}

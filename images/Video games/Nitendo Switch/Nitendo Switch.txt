@@ -1,0 +1,41 @@
+PREÇO 3.999
+ESTRUTURA
+Dimensões  102 x 239 x 13.9 - 28.4 mm, 104 x 173 x 54 mm (dock)
+Peso    297 - 389 g
+
+TELA
+Tamanho  6.2 polegadas
+
+PLATAFORMA
+Sistema operacional    Horizon
+CPU    SoC NVIDIA Tegra personalizado
+GPU    GeForce ULP
+
+MEMÓRIA
+Interna  32 GB, suporte a cartões microSD
+RAM  4 GB de memória RAM
+
+CONEXÕES
+Wireless  Wi-Fi ac
+Bluetooth  4.1
+USB  Tipo-C
+Rede cabeada  Sim
+
+Áudio
+Estéreo (5.1 fone de ouvido)
+
+CONTEÚDO DA EMBALAGEM
+Itens  1 Console Switch, 2 Joy-Con, 1 Base para TV, 1 Base para o Joy-Con, 1 Cabo de Energia, 1 Cabo HDMI, Manuais
+
+ESPECIFICAÇÕES
+Drive
+Cartucho
+Informações adicionais
+4310 mAh (bateria)
+Resolução máxima
+1080p@60fps (TV)
+Voltagem
+100-240 V CA, 50/60 Hz
+BATERIA
+Tempo de duração
+2.5 a 6.5 horas

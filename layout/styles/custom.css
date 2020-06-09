@@ -27,3 +27,8 @@ a:visited{
 a:hover{
    color: rgb(23, 39, 185);
 }
+.desc_jogos{
+   font-style: normal;
+   font-size: 17px;
+   color: black;
+}

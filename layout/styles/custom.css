@@ -32,3 +32,15 @@ a:hover{
    font-size: 17px;
    color: black;
 }
+
+.butao{
+   display: inline-block;
+   float: right;
+   position: absolute;
+   
+   top: 550px;
+   left: 900px;
+}
+.clear{
+   clear: both;
+}

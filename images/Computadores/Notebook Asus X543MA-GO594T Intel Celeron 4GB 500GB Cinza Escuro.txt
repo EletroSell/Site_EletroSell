@@ -1,0 +1,34 @@
+SSD	Não possui
+Cachê	4 MB
+Modelo Capacidade do HD	500 GB Sata
+Polegadas da Tela	15.6"
+Sistema Operacional	Windows 10
+Chipset	N/A
+Diferenciais	Câmera Integrada
+Voltagem 2	Bivolt
+Conteúdo da Embalagem	Notebook, carregador e certificado de garantia
+PREÇO: 2,999
+
+Teclado	Comum
+Dimensões do produto - cm (AxLxP)	38,1x25,2x2,7cm
+Modelo do Processador	N4000
+Modelo	X543MA-GO594T
+Processador	Intel Celeron Dual Core
+Placa de Som	Integrada
+Drives	DVD-RW
+Memória RAM	4GB
+Softwares Inclusos	ASUS Live Update ASUS Product Registration Program ASUS GiftBox ASUS Smart Gesture ASUS Splendid ASUS WebStorage Sync Agent ASUS ICEsound
+Leitor de Cartão	Micro SD
+Garantia do Fornecedor	12 Meses
+Fabricante	Asus
+Voltagem	Bivolt
+Modelo Sistema Operacional	Windows 10
+Referência do Modelo	90NB0IR7-M09960
+SAC	atendimento@asus.com
+Modelo Tamanho Tela	15,6" LED-backlit TFT LCD Glare (1366x768)
+Modelo Memória RAM	LPDDR4
+HD	500GB
+Placa de Vídeo	INTEL UHD600
+Placa de Rede	N/A
+Conexões	Wi Fi
+Peso liq. aproximado do produto (Kg)	2Kg

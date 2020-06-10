@@ -1,0 +1,39 @@
+PREÇO: 3.383,92
+
+
+Fabricante	Acer
+Teclado	tipo membrana em português do Brasil padrão ABNT 2 com teclado numérico
+Mouse	Touchpad: multi-gestual
+Polegadas da Tela	15.6"
+Sistema Operacional	Windows 10
+Conexões	HDMI, USB 3.0 e porta Ethernet (RJ-45), leitor cartão SD
+Conexão HDMI	Sim
+Webcam Integrada	Sim
+Slot para Cartão de Memória	Sim
+Softwares Inclusos	Microsoft Office (versão de avaliação por 30 dias)
+Voltagem	Bivolt
+Leitor de Cartão	SD
+Cor	Cinza
+Conteúdo da Embalagem	Notebook Acer Aspire 3 Fonte carregadora do notebook Manual em português Termo de garantia
+Garantia do Fornecedor	12 Meses
+Dimensões da embalagem - cm (AxLxP)	0,7x0,32x0,53
+Dimensões do produto - cm (AxLxP)	0,7x0,32x0,53
+Peso da embalagem c/ produto (kg)	2,93
+Peso liq. aproximado do produto (Kg)	2,93
+Referência do Modelo	NX.HU3AL.001
+Modelo	A315-54-58H0
+SAC	0800-762-2237
+Memória RAM	4GB
+SSD	Não possui
+Processador	Intel Core i5
+Modelo do Processador	Intel® Core I5 – 10210U
+Barramento	10210U
+HD	1TB
+Placa de Som	Dois alto falantes digitais estéreo Microfone digital integrado
+Placa de Vídeo	Intel® UHD Graphics com memória compartilhada com a memória RAM.
+Placa de Rede	Wireless
+Placa Mãe	Motherboard Asus
+Drives	Windows 10 Home
+Rede	Wireless
+Som	Dois alto falantes digitais estéreo
+Memória de Vídeo	Intel® UHD Graphics com memória compartilhada com a memória RAM.

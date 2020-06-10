@@ -1,0 +1,30 @@
+PREÇO:3.059,98
+
+Marca	Samsung
+Modelo	NP350XAA-KF3BR
+Cor	Cinza
+Polegadas da Tela	15.6"
+Sistema Operacional	Windows 10
+Processador	Intel Core i3
+Modelo Processador	Intel® Core¿ i3 7020U
+Cache	3 MB L3 Cache
+Chipset	Integrado (Intel)
+Memória RAM	4GB
+SSD	Não possui
+HD	1TB
+Placa de Som	HD (High Definition) Audio
+Placa de Vídeo	Intel® HD Graphics 620 Integrada
+Placa de Rede	10/100 LAN
+Drives	Não possui
+Conexões	HDMI
+Leitor de Cartão	Não possui
+Teclado	Comum
+Diferenciais	Bluetooth
+Softwares inclusos	Samsung SettingsSamsung UpdateSamsung Recovery
+Alimentação	Bivolt
+Conteúdo da Embalagem	1 computador portátil;1 fonte adaptadora; Guia de usuário; Certificado de garantia
+Garantia do Fornecedor	12 Meses
+Dimensões aproximadas do produto (cm) - AxLxP	1,99x37,7x24,9cm
+Peso líq. aproximado do produto (kg)	1,95
+Referência do Modelo	NP350XAA-KF3BR
+Fornecedor	Samsung

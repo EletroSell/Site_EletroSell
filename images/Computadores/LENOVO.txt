@@ -1,0 +1,30 @@
+Marca	Lenovo
+Modelo	Ideapad 330
+Cor	Prata
+Polegadas da Tela	15,6"
+Sistema Operacional	Windows 10
+PREÇO: 4.980,00
+
+Processador	Intel Core i5
+Modelo Processador	Intel Core i5-8250U
+Cache	6MB
+Chipset	Integrado
+Memória RAM	8GB
+SSD	Não possui
+HD	1TB
+Placa de Som	Alto falantes com certificação Dolby Audio (2 x 1.5W)
+Placa de Vídeo	Integrada Intel UHD Graphics 620
+Placa de Rede	100/1000
+Drives	0
+Conexões	HDMI
+Leitor de Cartão	Leitor de Cartões 4 em 1 (SD, SDHC, SDXC, MMC)
+Teclado	Comum
+Diferenciais	Bluetooth
+Softwares inclusos	Lenovo Vantage,Dolby Audio,Lenovo App Explorer,Lenovo ID
+Alimentação	Bivolt
+Conteúdo da Embalagem	1 Notebook, 1 manual e 1 fonte de energia
+Garantia do Fornecedor	12 Meses
+Dimensões aproximadas do produto (cm) - AxLxP	23x38x26cm
+Peso líq. aproximado do produto (kg)	2Kg
+Referência do Modelo	81FE0002BR
+Fornecedor	Lenovo

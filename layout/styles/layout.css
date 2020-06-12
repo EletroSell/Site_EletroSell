@@ -46,8 +46,8 @@ address, article, aside, figcaption, figure, footer, header, nav, section{displa
 
 div.wrapper, .wrapper100{display:block; width:100%; margin:0; padding:0; text-align:left; word-wrap:break-word;}
 
-.row1, .row1 a{color:#DBDBDB; background-color:#000000;}
-.row2{color:#919191; background-color:#080808; border-bottom:1px solid #333333;}
+.row1, .row1 a{color:#DBDBDB; background-color:#131313;}
+.row2{color:#919191; background-color:#232323; border-bottom:1px solid #333333;}
 .row3{color:#666666; background-color:#FFFFFF;}
 .row4, .row4 a{color:#919191; background-color:#080808;}
 .row5{color:#666666; background-color:#FFFFFF; border-bottom:1px solid #E5E4E3;}

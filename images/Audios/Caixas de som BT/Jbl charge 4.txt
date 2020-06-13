@@ -1,0 +1,23 @@
+PREÇO 1.199
+Marca	JBL
+Potência de Saída (W RMS)	30 W 
+Modelo	JBLCHARGE4BLK
+Cor	Preta
+Versão Bluetooth	4.2
+Resposta de Frequência	60 Hz a 20 kHz
+Relação Sinal/Ruído	80 dB
+Tipo da bateria	Polímero íon-lítio 27 Wh
+Capacidade da Bateria (mAh)	7,500 mAh
+Tempo de carregamento (hrs)	5.5
+Tempo de Reprodução da Música (hr)	20 h
+Dimensões aproximadas do produto (cm)	22 x 9.5 x 9.3 cm
+Garantia	12 meses
+À prova d'água	Sim
+Power Bank	Sim
+Integração com assistente de voz	Não
+JBL Connect+	Sim
+Viva-voz	Não
+Bluetooth	Sim
+Entrada cabo de áudio 3,5 mm	Sim
+Desligamento automático	Sim
+Conteúdo da Embalagem	1 JBL Charge 4 Preto, 1 Cabo USB tipo C, 1 Guia de Início Rápido, 1 Cartão de Garantia, 1 Ficha de Segurança
